@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Learn Vanilla Redux",
+      "completed": false,
+      "color": "green"
+    },
+    {
+      "text": "Learn Redux ",
+      "completed": true,
+      "id": 5,
+      "color": "yellow",
+      "title": "Learn Redux fundamentals sdfds"
+    },
+    {
+      "text": "Learn Redux Toolkit  addd",
+      "completed": true,
+      "id": 7,
+      "color": "yellow",
+      "title": "Learn Redux Toolkit fsdf"
+    },
+    {
+      "text": "todo list fsdaf",
+      "completed": true,
+      "id": 8,
+      "color": "red"
+    }
+  ]
+}
